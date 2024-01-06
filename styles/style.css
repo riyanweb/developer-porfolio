@@ -154,3 +154,24 @@ main section{
     font-size: 30px;
     font-weight: 700;
 }
+.resume-cont{
+    display: flex;
+    gap: 50px;
+}
+.resume-desc{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 40px 0px;
+
+}
+.resume-header2{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.download-cv{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
